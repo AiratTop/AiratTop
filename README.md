@@ -1,5 +1,5 @@
 <!--
-**AiratHalitov/airatvibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AiratTop/AiratTop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
  
@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/airatvibe">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=airatvibe&count_private=true&show_icons=true&theme=dark" />
+<a href="https://github.com/AiratTop">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AiratTop&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/airatvibe">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airatvibe&theme=dark&hide=html" />
+<a href="https://github.com/AiratTop">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiratTop&theme=dark&hide=html" />
 </a>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Alex-302/Alex-302/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Alex-302/Alex-302/output/github-contribution-grid-snake.svg#gh-light-mode-only)
