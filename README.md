@@ -1,17 +1,34 @@
-<!--
-**AiratTop/AiratTop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Airat Halitov 👋
 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an AI and Automation Engineer with over 10 years of experience in designing and implementing custom solutions that drive business efficiency and growth. My passion lies in transforming complex processes into streamlined, intelligent systems using a combination of AI, API integrations, and no-code/low-code platforms.
+
+---
+
+### 💡 What I Do
+
+* 🤖 **AI & Automation:** Building intelligent bots and automating complex workflows with **n8n**, **Python**, and AI models like GPT.
+* 📱 **No-Code/Low-Code Apps:** Developing custom web and mobile business applications with **AppSheet**.
+* ⚙️ **Backend Development:** Writing scalable and efficient backend services in **Go**.
+* 📊 **Data & Analytics:** Architecting data pipelines and creating real-time dashboards using **BigQuery**, **PostgreSQL**, and **Looker Studio**.
+* 🔗 **API Integration:** Connecting disparate systems (CRM, ERP, etc.) into a single, cohesive platform.
+
+---
+
+### 🛠️ My Tech Stack
+
+* **Automation & Low-Code:** `n8n`, `AppSheet`
+* **Languages:** `Go`, `Python`
+* **Databases:** `Google BigQuery`, `PostgreSQL`, `MySQL`, `Supabase`, `Redis`
+* **Data Visualization:** `Looker Studio`
+
+---
+
+### 📫 Get In Touch
+
+* **Website:** [Airat.Top](https://airat.top)
+* **YouTube:** [@AiratTop](https://www.youtube.com/@AiratTop)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/airattop)
+* **Telegram:** [@Airat_Halitov](https://t.me/Airat_Halitov)
 
 <a href="https://github.com/AiratTop">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AiratTop&count_private=true&show_icons=true&theme=dark" />
