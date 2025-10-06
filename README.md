@@ -26,8 +26,6 @@ I'm an AI and Automation Engineer with over 10 years of experience in designing 
 ### 📫 Get In Touch
 
 * **Website:** [Airat.Top](https://airat.top)
-* **YouTube:** [@AiratTop](https://www.youtube.com/@AiratTop)
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/airattop)
 * **Telegram:** [@Airat_Halitov](https://t.me/Airat_Halitov)
 
 <a href="https://github.com/AiratTop">
