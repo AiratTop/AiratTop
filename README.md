@@ -17,9 +17,11 @@ I'm an AI and Automation Engineer with over 10 years of experience in designing 
 ### 🛠️ My Tech Stack
 
 * **Automation & Low-Code:** `n8n`, `AppSheet`
-* **Languages:** `Go`, `Python`
-* **Databases:** `Google BigQuery`, `PostgreSQL`, `MySQL`, `Supabase`, `Redis`
-* **Data Visualization:** `Looker Studio`
+* **Languages:** `Python`, `Go`, `C/C++`
+* **Databases:** `PostgreSQL`, `MySQL`, `Supabase`, `Redis`, `Qdrant`
+* **OLAP:** `Google BigQuery`, `ClickHouse`
+* **Data Visualization:** `Looker Studio`, `DataLens`, `Metabase`
+* **DevOps:** `Docker`, `Git`, `GitHub`, `Bash`
 
 ---
 
@@ -27,6 +29,7 @@ I'm an AI and Automation Engineer with over 10 years of experience in designing 
 
 * **Website:** [Airat.Top](https://airat.top)
 * **Telegram:** [@Airat_Halitov](https://t.me/Airat_Halitov)
+* **Email:** [mail@airat.top](mailto:mail@airat.top)
 
 <a href="https://github.com/AiratTop">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AiratTop&count_private=true&show_icons=true&theme=dark" />
