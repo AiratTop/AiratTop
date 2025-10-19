@@ -1,4 +1,4 @@
-# Hi there, I'm Airat Halitov 👋
+# Hi there, I'm Airat 👋
 
 I'm an AI and Automation Engineer with over 10 years of experience in designing and implementing custom solutions that drive business efficiency and growth. My passion lies in transforming complex processes into streamlined, intelligent systems using a combination of AI, API integrations, and no-code/low-code platforms.
 
