@@ -31,10 +31,10 @@ I'm an AI and Automation Engineer with over 10 years of experience in designing 
 * **Email:** [mail@airat.top](mailto:mail@airat.top)
 
 <a href="https://github.com/AiratTop">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AiratTop&count_private=true&show_icons=true&theme=dark" />
+<img align="left" src="https://github-stats-extended.vercel.app/api?username=AiratTop&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/AiratTop">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiratTop&theme=dark&hide=html" />
+<img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AiratTop&theme=dark&hide=html" />
 </a>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Alex-302/Alex-302/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Alex-302/Alex-302/output/github-contribution-grid-snake.svg#gh-light-mode-only)
