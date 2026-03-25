@@ -23,6 +23,8 @@ I'm an AI and Automation Engineer with over 10 years of experience in designing 
 * **Data Visualization:** `Looker Studio`, `DataLens`, `Metabase`
 * **DevOps:** `Docker`, `Git`, `GitHub`, `Bash`
 
+Status page: https://status.airat.top
+
 ---
 
 ### 📫 Get In Touch
