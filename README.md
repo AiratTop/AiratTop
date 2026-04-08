@@ -23,14 +23,14 @@ I'm an AI and Automation Engineer with over 10 years of experience in designing 
 * **Data Visualization:** `Looker Studio`, `DataLens`, `Metabase`
 * **DevOps:** `Docker`, `Git`, `GitHub`, `Bash`
 
-Status page: https://status.airat.top
-
 ---
 
 ### 📫 Get In Touch
 
 * **Website:** [Airat.Top](https://airat.top)
+* **Blog:** https://blog.airat.top
 * **Email:** [mail@airat.top](mailto:mail@airat.top)
+* **Status:** https://status.airat.top
 
 <a href="https://github.com/AiratTop">
 <img align="left" src="https://github-stats-extended.vercel.app/api?username=AiratTop&count_private=true&show_icons=true&theme=dark" />
